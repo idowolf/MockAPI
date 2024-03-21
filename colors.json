@@ -1,6 +1,6 @@
 {
   "action": "breathe",
-  "parameters": {
+  "params": {
     "startingColor": "0,0,0",
     "endingColor": "167,50,237",
     "steps": 100,
