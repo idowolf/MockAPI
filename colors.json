@@ -3,7 +3,7 @@
   "params": {
     "startingColor": "0,0,0",
     "endingColor": "167,50,237",
-    "steps": 100,
-    "delay": 0.1
+    "steps": 300,
+    "delay": 0.01
   }
 }
