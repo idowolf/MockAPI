@@ -1,6 +1,9 @@
 {
-  "r": 255,
-  "g": 255,
-  "b": 255
+  "action": "breathe",
+  "parameters": {
+    "startingColor": "0,0,0",
+    "endingColor": "167,50,237",
+    "steps": 100,
+    "delay": 0.1
+  }
 }
-  
